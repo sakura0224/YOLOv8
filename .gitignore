@@ -1,0 +1,4 @@
+# run文件夹和video文件夹里的内容都不上传
+run/
+video/
+models/yolov8x.pt
